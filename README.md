@@ -7,3 +7,7 @@
 6. See an error message like `SQLSTATE[08004] [1040] Too many connections`
 7. Check out `fixed` branch
 8. Run tests again, and see OK message.
+
+Failing screenshot:
+
+![image](https://user-images.githubusercontent.com/1574232/148552400-3d0fe303-fd1c-4f52-a683-28937526d715.png)
