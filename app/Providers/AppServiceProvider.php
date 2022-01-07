@@ -15,7 +15,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //DB::registerDoctrineType(TimestampType::class, 'timestamp', 'timestamp');
+        DB::registerDoctrineType(TimestampType::class, 'timestamp', 'timestamp');
     }
 
     /**
